@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-# Sujaan-Haat - AI-Powered-Marketplace-Assistant
-Bridging the digital divide for India's 200+ million artisans through AI-powered marketplace solutions that preserve cultural heritage while enabling global reach. 
-=======
-# AI-Powered Marketplace Assistant for Local Artisans
-
+# Artisaan - AI-Powered-Marketplace-Assistan
 <div align="center">
 
 ![AI Artisan Marketplace](https://img.shields.io/badge/AI-Powered%20Marketplace-blue?style=for-the-badge&logo=artificial-intelligence)
@@ -11,7 +6,7 @@ Bridging the digital divide for India's 200+ million artisans through AI-powered
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-**Bridging the digital divide for India's 200+ million artisans through AI-powered marketplace solutions**
+Bridging the digital divide for India's 200+ million artisans through AI-powered marketplace solutions that preserve cultural heritage while enabling global r
 
 [🚀 Quick Start](#-quick-start) • [📖 Documentation](#-documentation) • [🤝 Contributing](#-contributing) • [📄 License](#-license)
 
