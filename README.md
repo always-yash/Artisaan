@@ -1,5 +1,6 @@
-# Artisaan - AI-Powered-Marketplace-Assistan
 <div align="center">
+
+# Artisaan - AI-Powered-Marketplace
 
 ![AI Artisan Marketplace](https://img.shields.io/badge/AI-Powered%20Marketplace-blue?style=for-the-badge&logo=artificial-intelligence)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
